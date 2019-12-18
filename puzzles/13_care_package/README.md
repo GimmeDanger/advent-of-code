@@ -30,32 +30,4 @@ The arcade cabinet has a [joystick](https://en.wikipedia.org/wiki/Joystick) that
 
 The arcade cabinet also has a [segment display](https://en.wikipedia.org/wiki/Display_device#Segment_displays) capable of showing a single number that represents the player's current score. When three output instructions specify `X=-1, Y=0`, the third output instruction is not a tile; the value instead specifies the new score to show in the segment display. For example, a sequence of output values like `-1,0,12345` would show `12345` as the player's current score.
 
-Beat the game by breaking all the blocks. _What is your score after the last block is broken?
-
-## Screenshot from part 2:
-##
-## HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
-## H                                        H
-## H   $   $   $ $$   $$ $    $ $$$ $  $$   H
-## H $ $$$$ $$  $    $   $  $ $$  $$$$ $$ $ H
-## H $      $$ $  $ $$$$$$      $ $ $$  $$$ H
-## H    $     $$  $$ $$$$$$  $ $$$$   $$  $ H
-## H $$$  $  $ $     $$$   $$ $$  $  $ $$$  H
-## H  $   $ $$$$$$ $$$$$    $      $$   $ $ H
-## H $ $ $$$$$$$  $$$  $$$$  $ $$  $    $$$ H
-## H  $ $$ $  $  $  $$$$ $ $ $$$$$ $$    $  H
-## H $    $      $$ $$ $$  $ $  $$ $     $$ H
-## H  $$$$$   $     $$ $   $ $   $  $  $  $ H
-## H $$$  $ $$  $$$ $ $$$    $$ $ $$$  $    H
-## H $$$   $  $   $$  $   $   $$   $    $$$ H
-## H     $ $$  $$$$ $ $ $$$   $$  $$ $$ $   H
-## H $  $ $ $  $ $ $      $ $$$ $$   $ $$$$ H
-## H $$$$$ $   $  $$$ $ $ $   $$$ $     $   H
-## H                                        H
-## H                                        H
-## H                             o          H
-## H                                        H
-## H                            W           H
-## H                                        H
-## 
-## SCORE: 386
+Beat the game by breaking all the blocks. What is your score after the last block is broken?
