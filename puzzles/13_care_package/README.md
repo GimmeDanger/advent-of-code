@@ -32,30 +32,30 @@ The arcade cabinet also has a [segment display](https://en.wikipedia.org/wiki/Di
 
 Beat the game by breaking all the blocks. _What is your score after the last block is broken?
 
-Screenshot from part 2:
-
-##HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
-##H                                        H
-##H   $   $   $ $$   $$ $    $ $$$ $  $$   H
-##H $ $$$$ $$  $    $   $  $ $$  $$$$ $$ $ H
-##H $      $$ $  $ $$$$$$      $ $ $$  $$$ H
-##H    $     $$  $$ $$$$$$  $ $$$$   $$  $ H
-##H $$$  $  $ $     $$$   $$ $$  $  $ $$$  H
-##H  $   $ $$$$$$ $$$$$    $      $$   $ $ H
-##H $ $ $$$$$$$  $$$  $$$$  $ $$  $    $$$ H
-##H  $ $$ $  $  $  $$$$ $ $ $$$$$ $$    $  H
-##H $    $      $$ $$ $$  $ $  $$ $     $$ H
-##H  $$$$$   $     $$ $   $ $   $  $  $  $ H
-##H $$$  $ $$  $$$ $ $$$    $$ $ $$$  $    H
-##H $$$   $  $   $$  $   $   $$   $    $$$ H
-##H     $ $$  $$$$ $ $ $$$   $$  $$ $$ $   H
-##H $  $ $ $  $ $ $      $ $$$ $$   $ $$$$ H
-##H $$$$$ $   $  $$$ $ $ $   $$$ $     $   H
-##H                                        H
-##H                                        H
-##H                             o          H
-##H                                        H
-##H                            W           H
-##H                                        H
+## Screenshot from part 2:
 ##
-##SCORE: 386
+## HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+## H                                        H
+## H   $   $   $ $$   $$ $    $ $$$ $  $$   H
+## H $ $$$$ $$  $    $   $  $ $$  $$$$ $$ $ H
+## H $      $$ $  $ $$$$$$      $ $ $$  $$$ H
+## H    $     $$  $$ $$$$$$  $ $$$$   $$  $ H
+## H $$$  $  $ $     $$$   $$ $$  $  $ $$$  H
+## H  $   $ $$$$$$ $$$$$    $      $$   $ $ H
+## H $ $ $$$$$$$  $$$  $$$$  $ $$  $    $$$ H
+## H  $ $$ $  $  $  $$$$ $ $ $$$$$ $$    $  H
+## H $    $      $$ $$ $$  $ $  $$ $     $$ H
+## H  $$$$$   $     $$ $   $ $   $  $  $  $ H
+## H $$$  $ $$  $$$ $ $$$    $$ $ $$$  $    H
+## H $$$   $  $   $$  $   $   $$   $    $$$ H
+## H     $ $$  $$$$ $ $ $$$   $$  $$ $$ $   H
+## H $  $ $ $  $ $ $      $ $$$ $$   $ $$$$ H
+## H $$$$$ $   $  $$$ $ $ $   $$$ $     $   H
+## H                                        H
+## H                                        H
+## H                             o          H
+## H                                        H
+## H                            W           H
+## H                                        H
+## 
+## SCORE: 386
