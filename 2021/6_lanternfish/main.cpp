@@ -28,7 +28,8 @@ vector<int> split(string s, char delimiter) {
     return res;
 }
 
-constexpr int DAYS = 80;
+constexpr int DAYS_A = 80;
+constexpr int DAYS_B = 256;
 constexpr int LIFE_COUNTER = 6;
 constexpr int INITIAL_LIFE_COUNTER = 8;
 
@@ -50,23 +51,18 @@ long long solve(const vector<string>& input, int days) {
             }
         }
         state = new_state;
-//        for (int s = 0; s <= INITIAL_LIFE_COUNTER; s++) {
-//            cout << new_state[INITIAL_LIFE_COUNTER - s] << " ";
-//        }
-//        cout << endl;
-//        cout << "after day: " << d << ", sum: " << accumulate(begin(state), end(state), 0ll) << endl;
     }
     return accumulate(begin(state), end(state), 0ll);
 }
 
 void solve_A(const vector<string>& input) {
     cout << "A: ";
-    cout << solve(input, 80) << endl;
+    cout << solve(input, DAYS_A) << endl;
 }
 
 void solve_B(const vector<string>& input) {
     cout << "B: ";
-    cout << solve(input, 256) << endl;
+    cout << solve(input, DAYS_B) << endl;
 }
 
 vector<string> parse(istream& in) {
